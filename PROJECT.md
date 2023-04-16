@@ -1,2 +1,1 @@
  O projeto se Trata de uma ferramenta WEB, codada em javascript, com a finalidade de filtrar os anúncios da biblioteca do Facebook, de acordo com os critérios dos usuários e as formas de filtragem que estaram disponíveis para ser executada, a idéia é que esse projeto rode em uma página web como citado, e utilize as informações de API do Facebook, para trazer esses anúncios, para a visualização em tela dos conteúdos e informações organizada em layouts agradáveis para um bom entendimento do contéudo que está sendo apresentado.
- 
